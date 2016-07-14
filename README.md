@@ -7,5 +7,6 @@ as well as for use with the upcoming textbook by Will Browne and Ryan Urbanowicz
 Please start by checking out the installation instructions file, to learn how to install the necessary software to view these Jupyter
 Notebook files.
 
-Note that there are 6 separate Jupyter Notebook files to be viewed in sequence in order to build a practical understanding of the concepts
-of how a basic LCS algorithm works, and how it can be implemented. 
+Note that there are 6 separate Jupyter Notebook files to be viewed in sequence in order to build a practical understanding of the concepts of how a basic LCS algorithm works, and how it can be implemented. 
+
+This implementation of eLCS was adapted by Will Browne from the original object oriented Python implementation (available in the repository named eLCS).

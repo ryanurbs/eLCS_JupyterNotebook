@@ -1,0 +1,8 @@
+1. If you already have Jupyter notebooks and Python installed, ignore the installation steps. The instructions below are for Anaconda, but you are, of course, free to use other softwares.
+2. For Anaconda, go to https://www.continuum.io/downloads and follow the instructions for your OS.
+3. Choose the Python 3.5 installer, and click through the installation steps.
+4. Once installed, open the Anaconda Navigator App.
+5. In Home/My Applications, click on Jupyter Notebooks.
+6. The Jupyter Notebook would now have opened up in your browser. Click on upload and upload the exercise files (eLCS_0.ipynb, eLCS_1.ipynb, ... , eLCS_5.ipynb) available at: 
+7. After the upload completes, click on each one of these and go through the files. You can chose to either run each file in its entirety (Cell -> Run All) or run only selected cells (Cell -> Run Cells) or a few other options.
+8. One of the benefits of running code in blocks is that you can create logical modules and examine intermediate results to understand the code and flow much better. Try it!
